@@ -30,6 +30,7 @@
         <module>springboot-21-actuator</module>
         <module>springboot-22-cloud</module>
         <module>springboot-23-mybatisplus</module>
+        <module>Springboot-24-easyexcel</module>
     </modules>
     <packaging>pom</packaging>
 
